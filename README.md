@@ -1,7 +1,7 @@
 ### Hi there this is 西行寺雨季 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustOneSummer&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-憨批Java开发者
+前天是兔子，昨天是小鹿，今天是你
 <!--
 **JustOneSummer/JustOneSummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
